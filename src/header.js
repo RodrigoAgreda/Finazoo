@@ -13,7 +13,7 @@ const Header = () => {
         <header className="header-container">
             <Navbar bg="dark" expand="lg">
                 <Container>
-                    <Navbar.Brand href="/inicio">
+                    <Navbar.Brand href="/Inicio">
                         <img
                             src="/logo_catstore2.png"
                             alt="GF.img"
